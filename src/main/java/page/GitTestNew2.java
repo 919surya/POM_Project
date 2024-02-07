@@ -8,6 +8,9 @@ public class GitTestNew2 {
 	}
 	public void printMe() {
 		System.out.println("git test example 2");
+		System.out.println("git test example 33");
+		System.out.println("git test example 476");
+		System.out.println("git test example 2754");
 		
 	}
 
