@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T14:23:19 EST" name="Default suite" finished-at="2024-01-31T14:23:52 EST" duration-ms="33730">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T14:23:19 EST" name="Default test" finished-at="2024-01-31T14:23:52 EST" duration-ms="33730">
+      <class name="test.AddCustomerTest">
+        <test-method signature="userShouldBeAbleToCreatNewCustomer()[pri:0, instance:test.AddCustomerTest@5a56cdac]" started-at="2024-01-31T14:23:19 EST" name="userShouldBeAbleToCreatNewCustomer" finished-at="2024-01-31T14:23:38 EST" duration-ms="19614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToCreatNewCustomer -->
+      </class> <!-- test.AddCustomerTest -->
+      <class name="test.LoginTest">
+        <test-method signature="validUserShouldBeAbleToLogin()[pri:0, instance:test.LoginTest@957e06]" started-at="2024-01-31T14:23:38 EST" name="validUserShouldBeAbleToLogin" finished-at="2024-01-31T14:23:52 EST" duration-ms="14081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToLogin -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
